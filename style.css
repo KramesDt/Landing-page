@@ -1,0 +1,161 @@
+body{
+    background-color: rgb(230, 224, 230);
+}
+
+.container{
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+    height: 720px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+height: 100px;
+/* background-color: aqua; */
+}
+
+#logo{
+    width: 200px;
+    float: left;
+    height: 100px;
+    /* background-color: green; */
+}
+
+#logo img{
+    width: 200px;
+    height: 100px;
+}
+
+#menu{
+    width: 824px;
+    float: left;
+    height: 100px;
+    /* background-color: rgb(128, 0, 17); */
+    text-align: center;
+    
+}
+
+a{
+    margin-top: 10px;
+    justify-content: center;
+    text-decoration: none;
+    padding-left: 15px;
+}
+
+
+
+#join{
+    width: 200px;
+    float: right;
+    height: 100px;
+    /* background-color: green; */
+} 
+
+#join p{
+    margin-top: 40px;
+}
+
+main{
+height: 400px;
+/* background-color: aquamarine; */
+}
+
+#first{
+    width: 512px;
+    float: left;
+    height: 400px;
+    /* background-color: green; */
+}
+
+h1{
+    margin-top:100px ;
+    margin-left: 80px;
+    font-size: 45px;
+
+
+}
+
+#first p{
+    color: rgb(175, 148, 175);
+    margin-left: 80px;
+}
+
+#second{
+    width: 512px;
+    float: left;
+    height: 400px;
+    /* background-color: blue; */
+}
+
+#third{
+    width: 400px;
+    float: left;
+    height: 400px;
+    /* background-color: rgb(0, 255, 145); */
+}
+
+#third img{
+    width: 400px;
+    height: 350px;
+}
+
+#fourth{
+    width: 112px;
+    float: left;
+    height: 400px;
+    /* background-color: rgb(255, 0, 0); */
+    text-align: center;
+}
+#sub{
+    font-size: 20px;
+    color: black;
+}
+
+p{
+    color: rgb(230, 224, 230);
+    font-size: 12px;
+    /* font-weight: 100; */
+}
+
+footer{
+height: 220px;
+/* background-color: darkcyan; */
+}
+
+#quran{
+    margin-left:100px;
+    padding: 10px;
+    border: 1px solid black;
+    white-space: pre;
+    float: left;
+    
+}
+
+#locate{
+    margin-left: 15px;
+    width: 200px;
+    padding: 10px;
+    border: 1px solid black;
+    float: left;
+    
+} 
+
+#search{
+    margin-left:15px;
+    width: 200px;
+    float: left;
+
+} 
+
+button{
+  background-color: black;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
